@@ -1,0 +1,66 @@
+body{
+    background-color: #0865DE;
+
+}
+.vision{
+    width: 122px;
+    height: 18px;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+
+}
+.projets{
+    width: 56px;
+    height: 18px;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+.EQUIPE{
+    width: 49px;
+    height: 18px;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+.contact{
+    width: 62px;
+    height: 18px;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+.title{
+    width: 459px;
+    height: 43px;
+    font-size: 30px;
+    line-height: 43px;
+    color: #FFFFFF;
+
+}
+.text{
+    width: 186px;
+    height: 120px;
+    font-size: 14px;
+    line-height: 33.3px;
+    color: #D1D1D1;
+
+}
+.second title{
+    width: 141px;
+    height: 36px;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+
+
+}
+.second text{
+    width: 830px;
+    height: 124px;
+    line-height: 44px;
+    color: #D1D1D1;
+}
+
+
